@@ -30,4 +30,4 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: lucasmartinez24/tpfinalhia
+          tags: lucasmartinez24/tpfinalhia-1
