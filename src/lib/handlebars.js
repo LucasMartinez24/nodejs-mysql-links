@@ -1,4 +1,4 @@
-const timeago = require('timeago');
+const timeago = require('timeago.js');
 const timeagoInstance = timeago();
 
 const helpers = {};
